@@ -1,5 +1,7 @@
 ### How to use [URL query params](https://docs.github.com/en/github/managing-your-work-on-github/about-automation-for-issues-and-pull-requests-with-query-parameters) + [a `config.yml` file](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser) to collect as much structured data as possible from the issue chooser
 
+> <img src="https://user-images.githubusercontent.com/1469659/117646825-20431a00-b184-11eb-8601-2116e6a3a1e2.gif" width="650">
+
 1. Create [a `config.yml` file](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository#configuring-the-template-chooser) on your repo
 2. Populate the `contact_links` with URL query params. Here's an example:
 
