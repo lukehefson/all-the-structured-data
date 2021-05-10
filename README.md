@@ -20,7 +20,7 @@ contact_links:
     about: Automate every bit of structured data possible upon issue submission
 ```
 
-If you look at the above URL it breaks down like this:
+If you look at [the URL](https://github.com/lukehefson/all-the-structured-data/issues/new?assignees=lukehefson&labels=enhancement%2C+question&title=A+pre-filled+title&milestone=a+milestone&projects=lukehefson/all-the-structured-data/1) it breaks down like this:
 
 | Part of the URL                                | What it does                                      |
 |------------------------------------------------|---------------------------------------------------|
